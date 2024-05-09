@@ -14,6 +14,7 @@ ThermoConvert is a beautifully designed, user-friendly web application that effo
 
 
 **How to Use**
+
 Using ThermoConvert is as simple as 1-2-3:
 
 1. Enter a temperature in one of the input fields (Celsius, Fahrenheit, or Kelvin).
