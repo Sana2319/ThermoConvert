@@ -6,6 +6,7 @@ ThermoConvert: A sleek web app for temperature conversion between Celsius, Fahre
 ThermoConvert is a beautifully designed, user-friendly web application that effortlessly converts temperatures between Celsius, Fahrenheit, and Kelvin. This project serves as a practical tool for everyday use, and also as an educational resource for those learning about temperature scales and conversions.
 
 **Key Features**
+
 **Intuitive User Interface:** ThermoConvert boasts a clean, intuitive interface that allows users to input temperatures and receive conversions instantly. The design is minimalistic yet effective, ensuring a smooth user experience.
 
 **Support for Multiple Temperature Scales:** ThermoConvert supports conversions between Celsius, Fahrenheit, and Kelvin, the three most commonly used temperature scales worldwide. This makes it a versatile tool for a wide range of users.
